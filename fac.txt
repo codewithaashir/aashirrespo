@@ -1,0 +1,15 @@
+node -v:
+npm -v
+git --version
+
+github
+git init
+git status
+git add (.) sari files git k folder ma add kardega.
+specific file add karne k liye add k agy file name..
+git config user.name //who am i ..koi or login hwa ha unka name
+git config user.name "Aashir"
+git checkout -b "name" //branch change as par name
+git checkout branch name with out inverted commas switched to branch
+git remote add origin https://github.com/Aashir-334/aashirrespo.git //repositry connection
+git push -u origin master //login
